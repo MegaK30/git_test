@@ -1,1 +1,2 @@
 This is the start of something great. Just wait and see!
+Trying out git to see what exactly we are doing 
